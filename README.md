@@ -20,7 +20,7 @@ The main goal of this project is to understand dataset and  how happiness levels
 ---
 
 ## 📂 Project Files
-- `CP_Final_dashboards.pbix` → Main Power BI dashboard file  
+- `Final_dashboards.pbix` → Main Power BI dashboard file  
 - `WHR24_Data_Figure_Final.xlsx` → 2024 Dataset  
 - `WHR25_Data_Figure_final.xlsx` → 2025 Dataset  
 - `WHR_Comparison_2024_vs_2025.xlsx` → Comparison dataset between 2024 and 2025  
@@ -92,5 +92,5 @@ By doing this project, I improved my skills in:
 
 ##  Conclusion
 This project helped me understand how data clean and visualization can be used to explain global trends in a simple and interactive way. 
-The dashboards make it easier to understand and compare happiness indicators and study patterns like related to wroldwide.
+The dashboards make it easier to understand and compare happiness indicators and study patterns like related to worldwide.
 
